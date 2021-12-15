@@ -1,0 +1,26 @@
+{
+    "os": "Linux-4.19.0-18-amd64-x86_64-with-debian-10.11",
+    "python": "3.7.6",
+    "heartbeatAt": "2021-12-12T19:22:12.831822",
+    "startedAt": "2021-12-12T19:22:10.582932",
+    "docker": null,
+    "gpu": "GeForce RTX 2080 Ti",
+    "gpu_count": 3,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/staff/xin/.local/share/jupyter/runtime/kernel-a7d4bf7f-6065-4093-a983-01a8cf384c9d.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/robeson1010/SSLRS.git",
+        "commit": "d2f7ccaffdfadab2302c2225868ac482639702f5"
+    },
+    "email": null,
+    "root": "/linux-data/xin/SSLRS",
+    "host": "gebo",
+    "username": "55133006",
+    "executable": "/home/staff/xin/miniconda3/envs/py3/bin/python"
+}
