@@ -10,7 +10,7 @@ index = {"open_tif": "04_data.ipynb",
          "stds": "04_data.ipynb",
          "TrainTransform": "04_data.ipynb",
          "ValTransform": "04_data.ipynb",
-         "aug_pipe": "00_core.ipynb",
+         "aug_pipe": "05_segdata.ipynb",
          "val_pipe": "04_data.ipynb",
          "aug": "04_data.ipynb",
          "aug2": "04_data.ipynb",
@@ -61,12 +61,27 @@ index = {"open_tif": "04_data.ipynb",
          "globalaug2": "04_data.ipynb",
          "locaaug": "04_data.ipynb",
          "db": "04_data.ipynb",
-         "Channelaug": "04_data.ipynb"}
+         "Channelaug": "04_data.ipynb",
+         "src": "05_segdata.ipynb",
+         "result": "05_segdata.ipynb",
+         "windows": "05_segdata.ipynb",
+         "MSMask": "05_segdata.ipynb",
+         "PositionalEncodingFourier": "06_xcit.ipynb",
+         "conv3x3": "06_xcit.ipynb",
+         "ConvPatchEmbed": "06_xcit.ipynb",
+         "LPI": "06_xcit.ipynb",
+         "ClassAttentionBlock": "06_xcit.ipynb",
+         "XCA": "06_xcit.ipynb",
+         "XCABlock": "06_xcit.ipynb",
+         "XCiT": "06_xcit.ipynb",
+         "Channelcopy": "04_data.ipynb"}
 
 modules = ["core.py",
            "utils.py",
            "visiontrans.py",
-           "dataset.py"]
+           "dataset.py",
+           "segdata.py",
+           "xcit.py"]
 
 doc_url = "https://robeson1010.github.io/SSLRS/"
 
